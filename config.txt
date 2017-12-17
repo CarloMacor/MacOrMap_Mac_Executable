@@ -1,0 +1,22 @@
+// nome Comune
+ALLUMIERE
+// cod catastale
+A210
+// quadro Unione
+/MacOrMap/Allumiere/Catasto/QU/A210_3846QU.OrMap
+// directory dei catastali cxf
+/MacOrMap/Allumiere/Catasto/CXF/
+// directory base dei dati
+/MacOrMap/Allumiere/
+// x originevista
+2263518.0
+// y originevista
+4671366.0
+// codx
+0
+// cody
+0
+// cod2x
+7.5
+// cod2y
+-4.5
